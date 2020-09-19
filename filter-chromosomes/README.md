@@ -5,5 +5,5 @@ A small bash script to extract only canonical chromosome entries (+MT) from ENSE
 * bash
 * awk
 
-### LICENSE
+### License
 GPL_v3.0
