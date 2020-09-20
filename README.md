@@ -8,3 +8,4 @@
 * [convert-GTF2BED](convert-GTF2BED)
 * [filter-chromosomes](filter-chromosomes)
 * [GTFPY](GTFPY)
+* [merge-motifs](merge-motifs)
