@@ -9,3 +9,4 @@
 * [filter-chromosomes](filter-chromosomes)
 * [GTFPY](GTFPY)
 * [merge-motifs](merge-motifs)
+* [stringdb-wrapper](stringdb-wrapper)
