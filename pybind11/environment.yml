@@ -1,0 +1,12 @@
+name: pybind11-computing
+channels:
+  - conda-forge
+dependencies:
+  - armadillo
+  - boost-cpp
+  - cereal
+  - eigen
+  - gsl
+  - mlpack
+  - numpy
+  - pybind11
