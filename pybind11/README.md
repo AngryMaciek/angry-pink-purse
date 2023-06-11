@@ -1,4 +1,4 @@
-# Toolset to extract and plot genomic coverages from bam files
+# Py/C++ interfacing for scientific computing
 *Maciej Bak  
 wsciekly.maciek@gmail.com*
 
