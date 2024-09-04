@@ -1,0 +1,2 @@
+### De-de-noiser
+Numerous times one needs to prepare a test dataset while developing a package. However, sometimes it is forbidden to upload the _real_ data to the public, the test dataset needs to be modified significantly. Here is a simple Python function which accepts a 2D data table and returns it with randomly shuffled values. Additionally, one may generate random noise from the range of _(0, eps)_ and incorporate it into the output. In order to use the code just copy and paste the function into your own script. Requirements: random, numpy, pandas
